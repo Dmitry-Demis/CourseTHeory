@@ -1,0 +1,4 @@
+Choose the bank - 1. Alphabank, 2. Sberbank
+Processor 7 chosen the 1 bank
+What to do. 0 - Amount, +SUM - Put, -Sum - Withdraw:
+Processor 7 chosen the next action: -1574
