@@ -1,0 +1,230 @@
+1 iteration
+ Processor: 9 Bank = Sberbank, Action: Put
+ Processor: 8 Bank = Alphabank, Action: Withdraw
+ Processor: 5 Bank = Sberbank, Action: Withdraw
+ Processor: 6 Bank = Alphabank, Action: Withdraw
+ Processor: 4 Bank = Alphabank, Action: Withdraw
+
+Process 9 is absent in the base. Resending to the other bank
+Process 5 is absent in the base. Resending to the other bank
+
+[]Process 10 has been received from the other bank
+
+[]Process 12 has been received from the other bank
+
+ Processor: 8 Bank = Alphabank, Action: Withdraw
+ Processor: 6 Bank = Alphabank, Action: Withdraw
+ Processor: 4 Bank = Alphabank, Action: Withdraw
+ Processor: 10 Bank = Alphabank, Action: Put
+ Processor: 12 Bank = Alphabank, Action: Put
+
+2 iteration
+ Processor: 6 Bank = Alphabank, Action: Withdraw
+ Processor: 7 Bank = Sberbank, Action: Put
+ Processor: 9 Bank = Sberbank, Action: Put
+ Processor: 3 Bank = Sberbank, Action: Withdraw
+ Processor: 12 Bank = Alphabank, Action: Withdraw
+
+Process 7 is absent in the base. Resending to the other bank
+Process 9 is absent in the base. Resending to the other bank
+Process 3 is absent in the base. Resending to the other bank
+
+[]Process 10 has been received from the other bank
+
+[]Process 8 has been received from the other bank
+
+[]Process 4 has been received from the other bank
+
+ Processor: 6 Bank = Alphabank, Action: Withdraw
+ Processor: 12 Bank = Alphabank, Action: Withdraw
+ Processor: 10 Bank = Alphabank, Action: Withdraw
+ Processor: 8 Bank = Alphabank, Action: Withdraw
+ Processor: 4 Bank = Alphabank, Action: Put
+
+3 iteration
+ Processor: 11 Bank = Sberbank, Action: Amount
+ Processor: 12 Bank = Alphabank, Action: Amount
+ Processor: 3 Bank = Sberbank, Action: Amount
+ Processor: 10 Bank = Alphabank, Action: Amount
+ Processor: 7 Bank = Sberbank, Action: Amount
+
+Process 11 is absent in the base. Resending to the other bank
+Process 3 is absent in the base. Resending to the other bank
+Process 7 is absent in the base. Resending to the other bank
+
+[]Process 4 has been received from the other bank
+
+[]Process 6 has been received from the other bank
+
+[]Process 8 has been received from the other bank
+
+ Processor: 12 Bank = Alphabank, Action: Amount
+ Processor: 10 Bank = Alphabank, Action: Amount
+ Processor: 4 Bank = Alphabank, Action: Amount
+ Processor: 6 Bank = Alphabank, Action: Amount
+ Processor: 8 Bank = Alphabank, Action: Amount
+
+4 iteration
+ Processor: 3 Bank = Sberbank, Action: Withdraw
+ Processor: 11 Bank = Sberbank, Action: Withdraw
+ Processor: 5 Bank = Sberbank, Action: Put
+ Processor: 10 Bank = Alphabank, Action: Put
+ Processor: 7 Bank = Sberbank, Action: Withdraw
+
+Process 3 is absent in the base. Resending to the other bank
+Process 11 is absent in the base. Resending to the other bank
+Process 5 is absent in the base. Resending to the other bank
+Process 7 is absent in the base. Resending to the other bank
+
+[]Process 12 has been received from the other bank
+
+[]Process 4 has been received from the other bank
+
+[]Process 6 has been received from the other bank
+
+[]Process 8 has been received from the other bank
+
+ Processor: 10 Bank = Alphabank, Action: Put
+ Processor: 12 Bank = Alphabank, Action: Withdraw
+ Processor: 4 Bank = Alphabank, Action: Put
+ Processor: 6 Bank = Alphabank, Action: Withdraw
+ Processor: 8 Bank = Alphabank, Action: Withdraw
+
+5 iteration
+ Processor: 11 Bank = Sberbank, Action: Put
+ Processor: 7 Bank = Sberbank, Action: Put
+ Processor: 10 Bank = Alphabank, Action: Put
+ Processor: 9 Bank = Sberbank, Action: Put
+ Processor: 5 Bank = Sberbank, Action: Put
+
+Process 11 is absent in the base. Resending to the other bank
+Process 7 is absent in the base. Resending to the other bank
+Process 9 is absent in the base. Resending to the other bank
+Process 5 is absent in the base. Resending to the other bank
+
+[]Process 8 has been received from the other bank
+
+[]Process 6 has been received from the other bank
+
+[]Process 12 has been received from the other bank
+
+[]Process 4 has been received from the other bank
+
+ Processor: 10 Bank = Alphabank, Action: Put
+ Processor: 8 Bank = Alphabank, Action: Put
+ Processor: 6 Bank = Alphabank, Action: Put
+ Processor: 12 Bank = Alphabank, Action: Put
+ Processor: 4 Bank = Alphabank, Action: Put
+
+6 iteration
+ Processor: 6 Bank = Alphabank, Action: Amount
+ Processor: 5 Bank = Sberbank, Action: Amount
+ Processor: 10 Bank = Alphabank, Action: Amount
+ Processor: 7 Bank = Sberbank, Action: Amount
+ Processor: 3 Bank = Sberbank, Action: Amount
+
+Process 5 is absent in the base. Resending to the other bank
+Process 7 is absent in the base. Resending to the other bank
+Process 3 is absent in the base. Resending to the other bank
+
+[]Process 4 has been received from the other bank
+
+[]Process 12 has been received from the other bank
+
+[]Process 8 has been received from the other bank
+
+ Processor: 6 Bank = Alphabank, Action: Amount
+ Processor: 10 Bank = Alphabank, Action: Amount
+ Processor: 4 Bank = Alphabank, Action: Amount
+ Processor: 12 Bank = Alphabank, Action: Amount
+ Processor: 8 Bank = Alphabank, Action: Amount
+
+7 iteration
+ Processor: 11 Bank = Sberbank, Action: Withdraw
+ Processor: 12 Bank = Alphabank, Action: Withdraw
+ Processor: 3 Bank = Sberbank, Action: Withdraw
+ Processor: 10 Bank = Alphabank, Action: Put
+ Processor: 7 Bank = Sberbank, Action: Put
+
+Process 11 is absent in the base. Resending to the other bank
+Process 3 is absent in the base. Resending to the other bank
+Process 7 is absent in the base. Resending to the other bank
+
+[]Process 4 has been received from the other bank
+
+[]Process 6 has been received from the other bank
+
+[]Process 8 has been received from the other bank
+
+ Processor: 12 Bank = Alphabank, Action: Withdraw
+ Processor: 10 Bank = Alphabank, Action: Put
+ Processor: 4 Bank = Alphabank, Action: Withdraw
+ Processor: 6 Bank = Alphabank, Action: Put
+ Processor: 8 Bank = Alphabank, Action: Put
+
+8 iteration
+ Processor: 12 Bank = Alphabank, Action: Put
+ Processor: 11 Bank = Sberbank, Action: Put
+ Processor: 5 Bank = Sberbank, Action: Withdraw
+ Processor: 10 Bank = Alphabank, Action: Withdraw
+ Processor: 9 Bank = Sberbank, Action: Withdraw
+
+Process 11 is absent in the base. Resending to the other bank
+Process 5 is absent in the base. Resending to the other bank
+Process 9 is absent in the base. Resending to the other bank
+
+[]Process 4 has been received from the other bank
+
+[]Process 6 has been received from the other bank
+
+[]Process 8 has been received from the other bank
+
+ Processor: 12 Bank = Alphabank, Action: Put
+ Processor: 10 Bank = Alphabank, Action: Withdraw
+ Processor: 4 Bank = Alphabank, Action: Put
+ Processor: 6 Bank = Sberbank, Action: Put
+ Processor: 8 Bank = Alphabank, Action: Withdraw
+
+9 iteration
+ Processor: 4 Bank = Alphabank, Action: Amount
+ Processor: 6 Bank = Alphabank, Action: Amount
+ Processor: 10 Bank = Alphabank, Action: Amount
+ Processor: 3 Bank = Sberbank, Action: Amount
+ Processor: 11 Bank = Sberbank, Action: Amount
+
+Process 3 is absent in the base. Resending to the other bank
+Process 11 is absent in the base. Resending to the other bank
+
+[]Process 8 has been received from the other bank
+
+[]Process 12 has been received from the other bank
+
+ Processor: 4 Bank = Alphabank, Action: Amount
+ Processor: 6 Bank = Alphabank, Action: Amount
+ Processor: 10 Bank = Alphabank, Action: Amount
+ Processor: 8 Bank = Alphabank, Action: Amount
+ Processor: 12 Bank = Alphabank, Action: Amount
+
+10 iteration
+ Processor: 11 Bank = Sberbank, Action: Withdraw
+ Processor: 12 Bank = Alphabank, Action: Withdraw
+ Processor: 3 Bank = Sberbank, Action: Put
+ Processor: 10 Bank = Alphabank, Action: Withdraw
+ Processor: 7 Bank = Sberbank, Action: Withdraw
+
+Process 11 is absent in the base. Resending to the other bank
+Process 3 is absent in the base. Resending to the other bank
+Process 7 is absent in the base. Resending to the other bank
+
+[]Process 4 has been received from the other bank
+
+[]Process 6 has been received from the other bank
+
+[]Process 8 has been received from the other bank
+
+ Processor: 12 Bank = Alphabank, Action: Withdraw
+ Processor: 10 Bank = Alphabank, Action: Withdraw
+ Processor: 4 Bank = Alphabank, Action: Put
+ Processor: 6 Bank = Alphabank, Action: Withdraw
+ Processor: 8 Bank = Alphabank, Action: Put
+

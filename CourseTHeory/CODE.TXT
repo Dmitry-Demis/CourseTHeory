@@ -1,4 +1,4 @@
-﻿// CourseTheoryProject.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// CourseTheoryProject.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
@@ -140,7 +140,14 @@ void SendToProcesses(map<int, BaseBank>& base, const vector<int>& arr)
                }
     }
 }
-
+void doDebug(int rank)
+{
+    if (!rank)
+    {
+        system("pause");
+    }
+    MPI_Barrier(comm);
+}
 void DeriveTwoOnVectors(int* arr, const int& arrSize, vector<int>& need, vector<int>& excess, string fileName, int whichProcess)
 {
     ofstream out(fileName, ios::app);
@@ -162,15 +169,6 @@ void DeriveTwoOnVectors(int* arr, const int& arrSize, vector<int>& need, vector<
     }
     out << endl;
     out.close();
-}
-
-void doDebug(int rank)
-{
-    if (!rank)
-    {
-        system("pause");
-    }
-    MPI_Barrier(comm);
 }
 int main(int argc, char** argv)
 {

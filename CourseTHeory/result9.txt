@@ -1,0 +1,100 @@
+
+
+****************The 1 iteration****************
+Choose the bank - 1. Alphabank, 2. Sberbank
+Processor 9 chosen the Sberbank bank
+What to do. 0 - Amount, +SUM - Put, -Sum - Withdraw:
+Processor 9 chosen the next action: 12231
+
+
+User 9. You've put 12231 RUB to your account. Current balance is 12231 RUB
+
+
+****************The 2 iteration****************
+Choose the bank - 1. Alphabank, 2. Sberbank
+Processor 9 chosen the Sberbank bank
+What to do. 0 - Amount, +SUM - Put, -Sum - Withdraw:
+Processor 9 chosen the next action: 5346
+
+
+User 9. You've put 5346 RUB to your account. Current balance is 17577 RUB
+
+
+****************The 3 iteration****************
+Choose the bank - 1. Alphabank, 2. Sberbank
+Processor 9 chosen the Sberbank bank
+What to do. 0 - Amount, +SUM - Put, -Sum - Withdraw:
+Processor 9 chosen the next action: 0
+
+
+User 9. Your balance is 17577 RUB
+
+
+****************The 4 iteration****************
+Choose the bank - 1. Alphabank, 2. Sberbank
+Processor 9 chosen the Sberbank bank
+What to do. 0 - Amount, +SUM - Put, -Sum - Withdraw:
+Processor 9 chosen the next action: 31532
+
+
+User 9. You've put 31532 RUB to your account. Current balance is 49109 RUB
+
+
+****************The 5 iteration****************
+Choose the bank - 1. Alphabank, 2. Sberbank
+Processor 9 chosen the Sberbank bank
+What to do. 0 - Amount, +SUM - Put, -Sum - Withdraw:
+Processor 9 chosen the next action: 28403
+
+
+User 9. You've put 28403 RUB to your account. Current balance is 77512 RUB
+
+
+****************The 6 iteration****************
+Choose the bank - 1. Alphabank, 2. Sberbank
+Processor 9 chosen the Sberbank bank
+What to do. 0 - Amount, +SUM - Put, -Sum - Withdraw:
+Processor 9 chosen the next action: 0
+
+
+User 9. Your balance is 77512 RUB
+
+
+****************The 7 iteration****************
+Choose the bank - 1. Alphabank, 2. Sberbank
+Processor 9 chosen the Sberbank bank
+What to do. 0 - Amount, +SUM - Put, -Sum - Withdraw:
+Processor 9 chosen the next action: 16781
+
+
+User 9. You've put 16781 RUB to your account. Current balance is 94293 RUB
+
+
+****************The 8 iteration****************
+Choose the bank - 1. Alphabank, 2. Sberbank
+Processor 9 chosen the Sberbank bank
+What to do. 0 - Amount, +SUM - Put, -Sum - Withdraw:
+Processor 9 chosen the next action: -23056
+
+
+User 9. You've withdrawn 23056 RUB. Current balance is 71237 RUB
+
+
+****************The 9 iteration****************
+Choose the bank - 1. Alphabank, 2. Sberbank
+Processor 9 chosen the Sberbank bank
+What to do. 0 - Amount, +SUM - Put, -Sum - Withdraw:
+Processor 9 chosen the next action: 0
+
+
+User 9. Your balance is 71237 RUB
+
+
+****************The 10 iteration****************
+Choose the bank - 1. Alphabank, 2. Sberbank
+Processor 9 chosen the Sberbank bank
+What to do. 0 - Amount, +SUM - Put, -Sum - Withdraw:
+Processor 9 chosen the next action: 6023
+
+
+User 9. You've put 6023 RUB to your account. Current balance is 77260 RUB

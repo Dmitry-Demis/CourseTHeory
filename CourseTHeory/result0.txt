@@ -1,0 +1,130 @@
+1 iteration
+ Processor: 9 Bank = Sberbank, Action: Put
+ Processor: 8 Bank = Alphabank, Action: Withdraw
+ Processor: 5 Bank = Sberbank, Action: Withdraw
+ Processor: 6 Bank = Alphabank, Action: Withdraw
+ Processor: 4 Bank = Alphabank, Action: Withdraw
+
+ Processor: 7 Bank = Sberbank, Action: Withdraw
+ Processor: 10 Bank = Alphabank, Action: Put
+ Processor: 3 Bank = Sberbank, Action: Withdraw
+ Processor: 12 Bank = Alphabank, Action: Put
+ Processor: 11 Bank = Sberbank, Action: Put
+
+2 iteration
+ Processor: 6 Bank = Alphabank, Action: Withdraw
+ Processor: 7 Bank = Sberbank, Action: Put
+ Processor: 9 Bank = Sberbank, Action: Put
+ Processor: 3 Bank = Sberbank, Action: Withdraw
+ Processor: 12 Bank = Alphabank, Action: Withdraw
+
+ Processor: 11 Bank = Sberbank, Action: Put
+ Processor: 10 Bank = Alphabank, Action: Withdraw
+ Processor: 8 Bank = Alphabank, Action: Withdraw
+ Processor: 5 Bank = Sberbank, Action: Withdraw
+ Processor: 4 Bank = Alphabank, Action: Put
+
+3 iteration
+ Processor: 11 Bank = Sberbank, Action: Amount
+ Processor: 12 Bank = Alphabank, Action: Amount
+ Processor: 3 Bank = Sberbank, Action: Amount
+ Processor: 10 Bank = Alphabank, Action: Amount
+ Processor: 7 Bank = Sberbank, Action: Amount
+
+ Processor: 4 Bank = Alphabank, Action: Amount
+ Processor: 6 Bank = Alphabank, Action: Amount
+ Processor: 5 Bank = Sberbank, Action: Amount
+ Processor: 8 Bank = Alphabank, Action: Amount
+ Processor: 9 Bank = Sberbank, Action: Amount
+
+4 iteration
+ Processor: 3 Bank = Sberbank, Action: Withdraw
+ Processor: 11 Bank = Sberbank, Action: Withdraw
+ Processor: 5 Bank = Sberbank, Action: Put
+ Processor: 10 Bank = Alphabank, Action: Put
+ Processor: 7 Bank = Sberbank, Action: Withdraw
+
+ Processor: 12 Bank = Alphabank, Action: Withdraw
+ Processor: 4 Bank = Alphabank, Action: Put
+ Processor: 6 Bank = Alphabank, Action: Withdraw
+ Processor: 8 Bank = Alphabank, Action: Withdraw
+ Processor: 9 Bank = Sberbank, Action: Put
+
+5 iteration
+ Processor: 11 Bank = Sberbank, Action: Put
+ Processor: 7 Bank = Sberbank, Action: Put
+ Processor: 10 Bank = Alphabank, Action: Put
+ Processor: 9 Bank = Sberbank, Action: Put
+ Processor: 5 Bank = Sberbank, Action: Put
+
+ Processor: 8 Bank = Alphabank, Action: Put
+ Processor: 6 Bank = Alphabank, Action: Put
+ Processor: 12 Bank = Alphabank, Action: Put
+ Processor: 3 Bank = Sberbank, Action: Withdraw
+ Processor: 4 Bank = Alphabank, Action: Put
+
+6 iteration
+ Processor: 6 Bank = Alphabank, Action: Amount
+ Processor: 5 Bank = Sberbank, Action: Amount
+ Processor: 10 Bank = Alphabank, Action: Amount
+ Processor: 7 Bank = Sberbank, Action: Amount
+ Processor: 3 Bank = Sberbank, Action: Amount
+
+ Processor: 4 Bank = Alphabank, Action: Amount
+ Processor: 12 Bank = Alphabank, Action: Amount
+ Processor: 8 Bank = Alphabank, Action: Amount
+ Processor: 9 Bank = Sberbank, Action: Amount
+ Processor: 11 Bank = Sberbank, Action: Amount
+
+7 iteration
+ Processor: 11 Bank = Sberbank, Action: Withdraw
+ Processor: 12 Bank = Alphabank, Action: Withdraw
+ Processor: 3 Bank = Sberbank, Action: Withdraw
+ Processor: 10 Bank = Alphabank, Action: Put
+ Processor: 7 Bank = Sberbank, Action: Put
+
+ Processor: 4 Bank = Alphabank, Action: Withdraw
+ Processor: 6 Bank = Alphabank, Action: Put
+ Processor: 5 Bank = Sberbank, Action: Put
+ Processor: 8 Bank = Alphabank, Action: Put
+ Processor: 9 Bank = Sberbank, Action: Put
+
+8 iteration
+ Processor: 12 Bank = Alphabank, Action: Put
+ Processor: 11 Bank = Sberbank, Action: Put
+ Processor: 5 Bank = Sberbank, Action: Withdraw
+ Processor: 10 Bank = Alphabank, Action: Withdraw
+ Processor: 9 Bank = Sberbank, Action: Withdraw
+
+ Processor: 7 Bank = Sberbank, Action: Put
+ Processor: 4 Bank = Alphabank, Action: Put
+ Processor: 6 Bank = Sberbank, Action: Put
+ Processor: 3 Bank = Sberbank, Action: Withdraw
+ Processor: 8 Bank = Alphabank, Action: Withdraw
+
+9 iteration
+ Processor: 4 Bank = Alphabank, Action: Amount
+ Processor: 6 Bank = Alphabank, Action: Amount
+ Processor: 10 Bank = Alphabank, Action: Amount
+ Processor: 3 Bank = Sberbank, Action: Amount
+ Processor: 11 Bank = Sberbank, Action: Amount
+
+ Processor: 9 Bank = Sberbank, Action: Amount
+ Processor: 8 Bank = Alphabank, Action: Amount
+ Processor: 5 Bank = Sberbank, Action: Amount
+ Processor: 12 Bank = Alphabank, Action: Amount
+ Processor: 7 Bank = Sberbank, Action: Amount
+
+10 iteration
+ Processor: 11 Bank = Sberbank, Action: Withdraw
+ Processor: 12 Bank = Alphabank, Action: Withdraw
+ Processor: 3 Bank = Sberbank, Action: Put
+ Processor: 10 Bank = Alphabank, Action: Withdraw
+ Processor: 7 Bank = Sberbank, Action: Withdraw
+
+ Processor: 4 Bank = Alphabank, Action: Put
+ Processor: 6 Bank = Alphabank, Action: Withdraw
+ Processor: 5 Bank = Sberbank, Action: Put
+ Processor: 8 Bank = Alphabank, Action: Put
+ Processor: 9 Bank = Sberbank, Action: Put
+

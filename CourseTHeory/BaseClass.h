@@ -2,10 +2,7 @@
 #include <string>
 #include <iostream>
 #include <iomanip>
-using std::string;
-using std::cout;
-using std::endl;
-#define A(x)  #x << " = " << x << " RUB."
+using namespace std;
 class BaseBank
 {
 public:
@@ -17,38 +14,35 @@ public:
 	{
 
 	}
-	virtual void Withdraw(const double& value)
+	virtual double Withdraw(const double& value)
 	{
 		if (value <= amount)
 		{
 			amount -= value;
-			BankName();
-			std::cout << std::setprecision(2)<< std::fixed<<value << " RUB has been withdrawn"<<endl;
+			return value;
 		}
 		else
 		{
-			BankName();
-			std::cout << std::setprecision(2) << std::fixed<<"Now you have " << amount << " RUB. But you want to withdraw " << value << " RUB" << endl;
+			return amount;
 		}
+		
 	}
 	virtual void Put(const double& value)
 	{
-		amount += value;
-		BankName();
-		std::cout << std::setprecision(2) << std::fixed << value << " RUB has been put on your account"<<endl;
+		amount += value;		
+		
 	}
-	virtual void Amount()  const
+	virtual double Amount()  const
 	{
-		BankName();
-		cout << std::setprecision(2) << std::fixed << "Current " << A(amount) << endl;
+		return amount;
+	}
+	virtual string BankName() const
+	{
+		return _name;
 	}
 private:
 	double amount = 0.0;
 	const string _name;
-	void BankName() const
-	{
-		cout << "Bank " << _name << ". ";
-	}
 
 };
 class Sberbank: public BaseBank
